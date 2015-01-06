@@ -1,0 +1,5 @@
+SPOJ IMP Problems:
+
+1. FCTRL
+2. FCTRL2
+2. PRIME1
